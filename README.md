@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tahamina Haq Any</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5anne&label=Profile%20views&color=0e75b6&style=flat" alt="5anne" /> </p>
 <img align="right" alt="coding" width="250px" height="250px" src="https://github.com/5anne/5anne/blob/main/Focused.jpg" />
 
