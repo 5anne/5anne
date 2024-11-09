@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="coding" width="" src="![image](https://github.com/user-attachments/assets/3aca5075-f926-47b2-a505-da97a0193aa5)
 " />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=5anne&label=Profile%20views&color=0e75b6&style=flat" alt="5anne" /> </p>
+<p align="left"> <img src="" alt="5anne" /> </p>
 
 - 🔭 I’m currently working on [P1_To_Do_List](https://github.com/5anne/P1_To_Do_List)
 
