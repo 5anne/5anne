@@ -1,6 +1,6 @@
 ![logo](https://github.com/5anne/5anne/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Tahamina Haq Any</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend developer want to dig more deeply this field and consistently working on it. Now, I'm eagerly seeking a dynamic team to collaborate with, thus I can be an active part of this amazing field and enhance my skills more.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5anne&label=Profile%20views&color=0e75b6&style=flat" alt="5anne" /> </p>
