@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tahamina Haq Any</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="coding" width="" src="![image](https://github.com/user-attachments/assets/3aca5075-f926-47b2-a505-da97a0193aa5)
-" />
+<img align="right" alt="coding" width="" src="https://github.com/5anne/5anne/blob/main/Focused.jpg" />
 <p align="left"> <img src="" alt="5anne" /> </p>
 
 - 🔭 I’m currently working on [P1_To_Do_List](https://github.com/5anne/P1_To_Do_List)
